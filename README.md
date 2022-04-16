@@ -1,7 +1,7 @@
 
 
-# Hi 👋, I'm Naima TOURAGHE</h1>
-### A passionate frontend developer from France
+<h1 align="center">Hi 👋, I'm Naima TOURAGHE</h1>
+<h3 align="center">A passionate frontend developer from France</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
