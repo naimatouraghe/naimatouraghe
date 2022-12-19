@@ -18,10 +18,10 @@ Je suis en recherche active d'une entreprise ayant d'une part un environnement `
 
 <h4 align="left">Mes applications d'algorithmique</h4>
 <p align="left">
-<a href="https://dev.to/mokkapps">
+<a href="https://www.codingame.com/profile/517426c0b12e6be9d6343b80efd4ebf12521924">
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz6tpLhyngOAIEKxzvNX3hrXLVowd3k6qc5w&usqp=CAU" height=25>
 </a>
-<a href="https://dev.to/mokkapps">
+<a href="https://www.codewars.com/users/naimatouraghe">
   <img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" height=25>
 </a>
  </p>
