@@ -52,7 +52,8 @@ Je suis en recherche active d'une entreprise ayant d'une part un environnement `
 
 <img align="left" src="./REAC.png" alt="REAC" />
 
-
+<div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimatouraghe&show_icons=true&locale=en&layout=compact" alt="naimatouraghe" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=naimatouraghe&show_icons=true&locale=en" alt="naimatouraghe" />
+</div>
