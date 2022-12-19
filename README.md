@@ -55,4 +55,4 @@ Je suis en recherche active d'une entreprise ayant d'une part un environnement `
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimatouraghe&show_icons=true&locale=en&layout=compact" alt="naimatouraghe" />
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=naimatouraghe&show_icons=true&locale=en" alt="naimatouraghe" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=naimatouraghe&show_icons=true&locale=en" alt="naimatouraghe" />
