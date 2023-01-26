@@ -48,8 +48,7 @@ Je suis en recherche active d'une entreprise ayant d'une part un environnement `
 <code><img height="30px" width="30px" src="https://www.vyrazu.com/wp-content/uploads/2021/01/iconfinder_21_Angular_logo_logos_4373284.svg"></code>
 <code><img height="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<h4 align="left">Les blocs de compétences associés à la certification "Concepteur Développeur d'applications DevOps":</h4>
-<img align="left" src="./REAC.png" alt="REAC" />
+
 
 <p>
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimatouraghe&show_icons=true&locale=en&layout=compact" alt="naimatouraghe" />
