@@ -11,7 +11,7 @@
 <h6 align="center">3 semaines en entreprise, 1 semaine en formation</h6>
 <br/>
 
-Suite à la validation d'un bac +2 en développement Web et Web Mobile, j'ai poursuis ma formation en `bac+3` dans le cursus en `Conception et Développement d'Applications DevOps` proposé par Simplon.
+Suite à la validation d'un bac +2 en développement Web et Web Mobile, j'ai poursuis ma formation en `bac+3` dans le cursus en `Conception et Développement d'Applications DevOps`.
 
 Je suis en recherche active d'une entreprise ayant d'une part un environnement `AGILE` et `DEVOPS` et d'autre part des projets nécessitant des compétences en conception. 
 
