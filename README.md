@@ -11,8 +11,9 @@
 
 Suite à la validation d'un bac +2 en développement Web et Web Mobile, j'ai poursuis ma formation en `bac+3` dans le cursus en `Conception et Développement d'Applications`.
 
-Je suis en poste et actuellement en train de développer les nouvelles compétences métiers nécessaire au développement d'applicatifs Microsoft. 
-Je vais travailler principalement en Javascript et en c# cette année, me former davantage sur la gestion de projet et les approches devops. 
+
+Je vais travailler principalement avec les languages de programmation Javascript et C# cette année. 
+Je compte également enrichir mes connaissances en gestion de projet et celles relatives à l'approches DevOps. 
 
 
 <h4 align="left">Mes applications d'algorithmique</h4>
