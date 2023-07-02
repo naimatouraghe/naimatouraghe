@@ -13,7 +13,7 @@ Suite à la validation d'un bac +2 en développement Web et Web Mobile, j'ai pou
 
 
 Je vais travailler principalement avec les languages de programmation Javascript et C# cette année. 
-Je compte également enrichir mes connaissances en gestion de projet et celles relatives à l'approches DevOps. 
+
 
 
 <h4 align="left">Mes applications d'algorithmique</h4>
