@@ -6,14 +6,13 @@
 </h1>
 </div>
 
-<h3 align="center">Conceptrice Développeuse d'Application DevOps - BAC+3</h3>
-<h4 align="center">Recherche alternance du 6 mars 2023 au 6 septembre 2024</h4>
-<h6 align="center">3 semaines en entreprise, 1 semaine en formation</h6>
+<h3 align="center">Conceptrice Développeuse d'Application - BAC+3</h3>
 <br/>
 
-Suite à la validation d'un bac +2 en développement Web et Web Mobile, j'ai poursuis ma formation en `bac+3` dans le cursus en `Conception et Développement d'Applications DevOps`.
+Suite à la validation d'un bac +2 en développement Web et Web Mobile, j'ai poursuis ma formation en `bac+3` dans le cursus en `Conception et Développement d'Applications`.
 
-Je suis en recherche active d'une entreprise ayant d'une part un environnement `AGILE` et `DEVOPS` et d'autre part des projets nécessitant des compétences en conception. 
+Je suis en poste et actuellement en train de développer les nouvelles compétences métiers nécessaire au développement d'applicatifs Microsoft. 
+Je vais travailler principalement en Javascript et en c# cette année, me former davantage sur la gestion de projet et les approches devops. 
 
 
 <h4 align="left">Mes applications d'algorithmique</h4>
