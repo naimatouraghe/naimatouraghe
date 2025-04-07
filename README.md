@@ -6,7 +6,7 @@
 </h1>
 </div>
 <div align="center">
-<h3 align="center">Conceptrice Développeuse d'Application - BAC+3</h3>
+<h3 align="center">Consultante Technico-Fonctionnelle Power Platform | Développeuse Full Stack (Node.js, React.js)</h3>
 <br/>
 
 Passionnée par la transformation digitale, j’évolue à l’intersection entre la technique et le fonctionnel. En tant que Consultante Technico-Fonctionnelle Power Platform, j’accompagne les entreprises dans l’optimisation de leurs processus en exploitant la puissance de Dynamics 365 Sales et des outils Microsoft. Mes compétences et mon approche business me permettent de comprendre rapidement les enjeux métier et de proposer des solutions adaptées.
